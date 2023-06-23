@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @sushmithaadapa12
+- 🌐 Software Developer | JavaScript Enthusiast
+- 💼 Currently working at Krify Software technolgies pvt lmtd
+- 🔭 I’m passionate about building scalable and performant web applications.
+- 🌱 I’m constantly learning and exploring new technologies to stay up-to-date with the latest trends in the web development world.
+- 💻 My tech stack includes:
+   - Front-end: HTML, CSS, Bootstrap,JavaScript, React.js
+   - Back-end: Node.js, Express.js, Python,php, laravel, codeigniter
+   - Databases: MySQL, MongoDB , sqlite , postgresql 
+   - DevOps: Git
+- 📫 You can reach me at **rajiadapa67@gmail.com**
+- 📚 Check out my repositories below to see some of the projects I've worked on. Feel free to explore, contribute, or provide any feedback.
+- 🌟 Connect with me on LinkedIn: **https://linkedin.com/in/sushmita-adapa-1a2405224**
+- 🤗Looking forward to collaborating with fellow developers and building amazing things together!
